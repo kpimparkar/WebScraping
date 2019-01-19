@@ -2,6 +2,7 @@
 This repo holds mini projects involving web scraping and analysis of the scraped data.
 # List of Projects :
 1. Famous restaurants in your city.
+2. Scrape baby girl names.  
 
 # PROJECT 1 : FAMOUS RESTAURANTS IN YOUR CITY !!
 - **PROJECT SUMMARY :**  
@@ -42,3 +43,6 @@ outFileName : Optional. Restaurant list will be stored in this file. Preferred f
 
 C:\Study\IUMSDS\FA18-WebScraping\Project>
 ```
+# PROJECT 2 : SCRAPE BABY GIRL NAMES !!
+- **PROJECT SUMMARY :**  
+   This python script scrpaes baby girl names from firstcry.com. List of baby names along with meaning and firstcry link are provided as output of this python script in a .csv file.
